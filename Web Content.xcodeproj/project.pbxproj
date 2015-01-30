@@ -36,6 +36,7 @@
 		081EC86D19F862F500D6BF03 /* Web ContentTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Web ContentTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		081EC87219F862F500D6BF03 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		081EC87319F862F500D6BF03 /* Web_ContentTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Web_ContentTests.swift; sourceTree = "<group>"; };
+		085EC8F719F97F2200FA0A6B /* StringPlayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = StringPlayground.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +80,7 @@
 			children = (
 				081EC85D19F862F400D6BF03 /* AppDelegate.swift */,
 				081EC86219F862F400D6BF03 /* ViewController.swift */,
+				085EC8F719F97F2200FA0A6B /* StringPlayground.playground */,
 				081EC86419F862F400D6BF03 /* Main.storyboard */,
 				081EC86719F862F400D6BF03 /* Images.xcassets */,
 				081EC85F19F862F400D6BF03 /* Web_Content.xcdatamodeld */,
@@ -399,6 +401,7 @@
 				081EC87919F862F500D6BF03 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		081EC87A19F862F500D6BF03 /* Build configuration list for PBXNativeTarget "Web ContentTests" */ = {
 			isa = XCConfigurationList;
@@ -407,6 +410,7 @@
 				081EC87C19F862F500D6BF03 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
